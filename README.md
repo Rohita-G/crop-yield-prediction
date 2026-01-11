@@ -2,12 +2,12 @@
 
 ![Project Banner](results/predictions_vs_actual.png)
 
-## 📌 Project Overview
+##  Project Overview
 This project leverages historical weather patterns and soil composition data to predict **Crop Yields** (specifically Corn) across the US Corn Belt. By analyzing 30+ years of environmental data (1980–2018), we developed a **Random Forest Regressor** to estimate agricultural output at the county level.
 
 The goal is to provide data-driven insights for agricultural planning, utilizing machine learning to understand the relationship between environmental sensing data and food production.
 
-## 🚀 Features
+##  Features
 *   **Data Pipeline**: Automated ingestion and cleaning of over 25,000 records.
 *   **Feature Engineering**: Processing 300+ weekly weather variables (`W_x_y`) and soil measurements.
 *   **Predictive Modeling**: Random Forest Regressor achieving **MAE: 24.5 Bu/Acre**.
