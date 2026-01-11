@@ -6,7 +6,7 @@ __pycache__/
 # Data (Exclude large files)
 data/
 !data/.gitkeep
-# results/ # Uncomment if you want to exclude generated results
+results/
 logs/
 
 # Environment
