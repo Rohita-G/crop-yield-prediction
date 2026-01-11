@@ -31,7 +31,7 @@ The goal is to provide data-driven insights for agricultural planning, utilizing
 *   **[Data Dictionary](docs/DATA_DICTIONARY.md)**: Schema definition for the dataset.
 *   **[Visual Walkthrough](docs/walkthrough.md)**: Graphical summary of results.
 
-## 🛠️ Quick Start
+##  Quick Start
 
 ### Prerequisites
 *   Python 3.8+
